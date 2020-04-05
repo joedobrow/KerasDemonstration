@@ -1,4 +1,4 @@
-# KerasDemonstration
+# Keras Demonstration
 The purpose of this notebook is to highlight my competence with Keras and TensorFlow. I complete 3 short projects in the notebook:
 
 1. Titanic dataset on Kaggle using a basic feed forward Sequential model. I scored 75.12% accuarcy, which is 3 points up from my previous attempt without using neural networks
